@@ -1,0 +1,16 @@
+c:\users\crazypriest\documents\visual studio 2015\Projects\ScreenshootToVK\ScreenshootToVK\bin\Debug\ScreenshootToVK.exe.config
+C:\Users\CrazyPriest\documents\visual studio 2015\Projects\ScreenshootToVK\ScreenshootToVK\bin\Debug\ScreenshootToVK.exe
+C:\Users\CrazyPriest\documents\visual studio 2015\Projects\ScreenshootToVK\ScreenshootToVK\bin\Debug\ScreenshootToVK.pdb
+C:\Users\CrazyPriest\documents\visual studio 2015\Projects\ScreenshootToVK\ScreenshootToVK\obj\Debug\ScreenshootToVK.csprojResolveAssemblyReference.cache
+C:\Users\CrazyPriest\documents\visual studio 2015\Projects\ScreenshootToVK\ScreenshootToVK\obj\Debug\ScreenshootToVK.Form1.resources
+C:\Users\CrazyPriest\documents\visual studio 2015\Projects\ScreenshootToVK\ScreenshootToVK\obj\Debug\ScreenshootToVK.Properties.Resources.resources
+C:\Users\CrazyPriest\documents\visual studio 2015\Projects\ScreenshootToVK\ScreenshootToVK\obj\Debug\ScreenshootToVK.csproj.GenerateResource.Cache
+C:\Users\CrazyPriest\documents\visual studio 2015\Projects\ScreenshootToVK\ScreenshootToVK\obj\Debug\ScreenshootToVK.exe
+C:\Users\CrazyPriest\documents\visual studio 2015\Projects\ScreenshootToVK\ScreenshootToVK\obj\Debug\ScreenshootToVK.pdb
+C:\Users\CrazyPriest\documents\visual studio 2015\Projects\ScreenshootToVK\ScreenshootToVK\bin\Debug\HtmlAgilityPack.dll
+C:\Users\CrazyPriest\documents\visual studio 2015\Projects\ScreenshootToVK\ScreenshootToVK\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CrazyPriest\documents\visual studio 2015\Projects\ScreenshootToVK\ScreenshootToVK\bin\Debug\VkNet.dll
+C:\Users\CrazyPriest\documents\visual studio 2015\Projects\ScreenshootToVK\ScreenshootToVK\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\CrazyPriest\documents\visual studio 2015\Projects\ScreenshootToVK\ScreenshootToVK\bin\Debug\HtmlAgilityPack.xml
+C:\Users\CrazyPriest\documents\visual studio 2015\Projects\ScreenshootToVK\ScreenshootToVK\bin\Debug\Newtonsoft.Json.xml
+C:\Users\CrazyPriest\documents\visual studio 2015\Projects\ScreenshootToVK\ScreenshootToVK\bin\Debug\VkNet.xml
